@@ -1,4 +1,16 @@
+	HEAD
 	After days of navigating the shifting paths and unraveling the map’s secret symbols, Elara reached a hidden spring deep within the Whispering Woods. 
 Guarded by ancient carvings and blooming with rare herbs, the place pulsed with quiet magic. She filled a small flask with its clear waters and returned to her village, 
 guided by Rami and the now-silent map. In the months that followed, crops grew stronger, illnesses faded, and the once-wary villagers began to believe in the stories again. 
 Elara never spoke much of what she saw, but every time the wind rustled the trees, she smiled—knowing the woods still whispered, and she had listened.
+
+	After uncovering the hidden spring deep within the Whispering Woods, Elara returned to her village with a flask of its water. Soon, crops thrived, 
+illnesses faded, and the land came back to life. She never shared all she saw, but when the wind rustled the trees, she smiled—knowing the woods were 
+finally at peace.
+
+	tragic-ending
+
+	After days of following the shifting map, Elara reached a hidden spring guarded by ancient carvings and rare herbs, pulsing with quiet magic. 
+She returned to her village with a small flask of its water, and soon the land began to heal—crops flourished, and old illnesses faded. The villagers, 
+once doubtful, started to believe in the forgotten stories. Elara never spoke of what she saw, but when the wind rustled through the trees, 
+she smiled—knowing the woods were finally at peace, and their whispers had been heard.
